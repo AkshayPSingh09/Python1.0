@@ -1,0 +1,2 @@
+g = "Akshay"
+print(g)
